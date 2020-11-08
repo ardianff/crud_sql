@@ -9,9 +9,7 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * Created by Kuncoro on 22/12/2016.
- */
+
 
 public class DbHelper extends SQLiteOpenHelper {
 

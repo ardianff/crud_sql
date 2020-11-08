@@ -1,8 +1,5 @@
 package com.ardian.crudsqlite.model;
 
-/**
- * Created by Kuncoro on 22/12/2016.
- */
 
 public class Data {
     private String id, name, address;

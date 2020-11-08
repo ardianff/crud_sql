@@ -13,9 +13,7 @@ import com.ardian.crudsqlite.model.Data;
 
 import java.util.List;
 
-/**
- * Created by Kuncoro on 22/12/2016.
- */
+
 
 public class Adapter extends BaseAdapter {
     private Activity activity;

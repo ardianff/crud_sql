@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/CRUDSQLite-master.iml" filepath="$PROJECT_DIR$/CRUDSQLite-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/CRUDSQLite-master-app.iml" filepath="$PROJECT_DIR$/app/CRUDSQLite-master-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crud_sql.iml" filepath="$PROJECT_DIR$/.idea/modules/crud_sql.iml" group="crud_sql" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/crud_sql-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/crud_sql-app.iml" group="crud_sql/app" />
     </modules>
   </component>
 </project>
